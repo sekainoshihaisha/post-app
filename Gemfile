@@ -46,3 +46,7 @@ group :development do
 end
 
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+gem 'devise'
+
+gem 'rails_admin'
